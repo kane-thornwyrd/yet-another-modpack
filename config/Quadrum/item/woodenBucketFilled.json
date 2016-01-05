@@ -1,0 +1,8 @@
+{
+  "name": "woodenBucketFilled",
+  "texture": "woodenBucketFilled",
+  "type": "drink",
+  "ore-dictionary": [
+    "listAllWater"
+  ]
+}

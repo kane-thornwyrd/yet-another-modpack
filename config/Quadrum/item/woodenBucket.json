@@ -1,0 +1,7 @@
+{
+  "name": "woodenBucket",
+  "texture": "woodenBucket",
+  "ore-dictionary": [
+    "bucket"
+  ]
+}

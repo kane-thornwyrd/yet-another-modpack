@@ -1,0 +1,25 @@
+{"events":[
+{
+    "event_type": "CHAT",
+    "text": "DUMP",
+    "tasks": [
+                {
+                    "task_type": "DUMP",
+                    "objectType": "ENTITY"
+                },
+                {
+                    "task_type": "DUMP",
+                    "objectType": "BLOCK"
+                }
+             ]
+},
+{
+    "event_type": "CHAT",
+    "text": "RELOAD",
+    "tasks": [
+                {
+                    "task_type": "RELOAD"
+                }
+             ]
+}
+]}

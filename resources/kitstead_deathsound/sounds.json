@@ -1,0 +1,11 @@
+{
+   "deathSound_1": {"category": "master","sounds": [{"name": "deathSound_1","stream": false}]},
+   "deathSound_2": {"category": "master","sounds": [{"name": "deathSound_2","stream": false}]},
+   "deathSound_3": {"category": "master","sounds": [{"name": "deathSound_3","stream": false}]},
+   "deathSound_4": {"category": "master","sounds": [{"name": "deathSound_4","stream": false}]},
+   "deathSound_5": {"category": "master","sounds": [{"name": "deathSound_5","stream": false}]},
+   "deathSound_6": {"category": "master","sounds": [{"name": "deathSound_6","stream": false}]},
+   "deathSound_7": {"category": "master","sounds": [{"name": "deathSound_7","stream": false}]},
+   "deathSound_8": {"category": "master","sounds": [{"name": "deathSound_8","stream": false}]},
+   "deathSound_9": {"category": "master","sounds": [{"name": "deathSound_9","stream": false}]}
+}

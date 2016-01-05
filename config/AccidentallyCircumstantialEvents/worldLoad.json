@@ -1,0 +1,32 @@
+{"events":[
+
+{
+  "event_type": "JOIN_WORLD",
+  "noDeathDim": "true",
+  "joinOneEver": "true",
+  "target": "ALL_PLAYERS",
+  "tasks": [
+    {
+      "task_type": "COMMAND",
+      "ignorePrivilages": true,
+      "command": "/worlddrop set 1 0 0 250"
+    },
+    {
+      "task_type": "COMMAND",
+      "ignorePrivilages": true,
+      "command": "/worlddrop set 0 1 256 10 true"
+    },
+    {
+      "task_type": "COMMAND",
+      "ignorePrivilages": true,
+      "command": "/worlddrop set 0 -1 0 250"
+    },
+    {
+      "task_type": "COMMAND",
+      "ignorePrivilages": true,
+      "command": "/worlddrop set -1 0 256 10 true"
+    }
+  ]
+}
+
+]}
